@@ -1,0 +1,67 @@
+@model SignPC.Models.AdminLogin
+
+@{
+    Layout = null;
+    ViewData["Title"] = "Login";
+}
+
+<link rel="stylesheet" href="~/css/bootstrap.min.css">
+<link rel="stylesheet" href="~/css/login.css">
+
+<nav class="main-header navbar navbar-expand navbar-white navbar-light">
+    <a class="brand-link" asp-action="Login">
+      <img src="~/AdminLTE/dist/img/uniluandalogo.png" alt="Logo UniLuanda" width="50" height="50" class="brand-image img-circle elevation-3 me-3" style="opacity: .8">
+    </a>
+</div>
+  </nav>
+<div class="container-fluid vertical-center">
+    <div class="row d-flex justify-content-center w-100 my-auto">
+        <div class="col-md-6 col-lg-4">
+            <form asp-controller="Conta" asp-action="Login" method="post" class="bg-light p-4 rounded">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <h3 class="mb-4 text-center">Sign-PC</h3>
+                @if (TempData["Sucesso"] != null)
+                {
+                    <span class="form-group d-flex text-success justify-content-center fw-bold">@TempData["Sucesso"]</span>
+                }
+                <div class="mb-3">
+                    <label asp-for="Email" class="form-label"><strong>E-mail</strong></label>
+                    <input asp-for="Email" class="form-control" placeholder="Digite o e-mail" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Senha" class="form-label"><strong>Senha</strong></label>
+                    <input asp-for="Senha" type="password" class="form-control" placeholder="Digite a senha" />
+                    <span asp-validation-for="Senha" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" id="lembrar">
+                        <label class="form-check-label" for="lembrar">
+                            <strong>Lembrar</strong>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="mb-3">
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-success">Entrar</button>
+                    </div>
+                </div>
+                
+                <div class="text-center link">
+                    Novo Usuário? Clique em
+                    <a asp-action="Registro" asp-controller="Conta" class="fw-bold">Registrar</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="row pt-5">
+<footer class="main-footer">
+    <p class="text-center  text-muted"><strong>Powered by ACM-INSTIC, Copyright&copy; 2024.</strong></p>
+</footer> 
+ </div>
+

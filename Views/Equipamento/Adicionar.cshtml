@@ -1,0 +1,40 @@
+@{
+    ViewData["Title"] = "Adicionar de Equipa";
+}
+
+@model SignPC.Models.Equipamento
+
+
+<form asp-controller="Equipamento" asp-action="Adicionar" method="post">
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>     
+    <div class="mb-3 col-md">
+        <label for="NomeEquipamento" class="form-label">Marca do Equipamento</label>
+        <input type="text" asp-for="NomeEquipamento" class="form-control" placeholder="Digite a marca do equipamento..."/>
+        <span asp-validation-for="NomeEquipamento" class="text-danger"></span>   
+    </div>
+ <div class="mb-3 col-md">
+        <label for="Tipo" class="form-label">Tipo de Equipamento</label>
+        <input type="text" asp-for="Tipo" class="form-control" placeholder="Teclado, Monitor, Gabinete..."/>
+        <span asp-validation-for="Tipo" class="text-danger"></span> 
+    </div>
+    <div class="mb-3 col-md">
+        <label for="Descricao" class="form-label">Descrição</label>
+        <input type="text" asp-for="Descricao" class="form-control" placeholder="Digite a descrição do equipamento"/>
+        <span asp-validation-for="Descricao" class="text-danger"></span>    
+    </div>
+    <div class="mb-3 col-md">
+        <label asp-for="Estado" class="control-label">Estado do Equipamento</label>
+        <select asp-for="Estado" class="form-control">
+            <option value="">Selecione</option>
+            <option value="1">Disponível</option>
+            <option value="2">Indisponível</option>
+        </select>
+        <span asp-validation-for="Estado" class="text-danger"></span>
+    </div>
+    <div class="card-footer">
+        <center>
+            <button type="submit" class="btn btn-success">Salvar</button>
+            <a asp-action="Index" asp-controller="Equipamento" class="btn btn-secondary">Cancelar</a>
+        </center>
+    </div>
+</form>

@@ -1,0 +1,89 @@
+@{
+    ViewData["Title"] = "Lista de Membros";
+}
+
+@model List<SignPC.Models.Membro>
+
+<h1 class="fw-bold text-darks text-center">Membros</h1>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">   
+        <div class="col-md">
+            <a asp-controller="Membro" asp-action="Adicionar" class="btn btn-primary my-2">Adicionar</a>
+        </div>
+  <section class="content">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-12">
+            <div class="card">
+                 <div div class="card-header">
+                    <div class="d-flex">
+                      <form class="d-flex" asp-controller="Membro" asp-action="Index">
+                          <input name="pesquisaString" class="form-control me-2" type="search" placeholder="Nº Proc/nome/e-mail..." aria-label="Search">
+                        <button class="btn btn-outline-secondary btn-md my-0 mx-1" type="submit">Pesquisar</button>
+                      </form>
+                    </div>
+                  </div>
+                      @if (TempData["Deletar"] != null)
+                      {
+                        <p class="form-group d-flex text-success justify-content-center fw-bold fs-5">@TempData["Deletar"]</p>
+                      }
+                      @if (TempData["Alterar"] != null)
+                      {
+                        <p class="form-group d-flex text-success justify-content-center fw-bold fs-5">@TempData["Alterar"]</p>
+                      }
+                      @if (TempData["Adicionar"] != null)
+                      {
+                        <p class="form-group d-flex text-success justify-content-center fw-bold fs-5">@TempData["Adicionar"]</p>
+                      }
+              <div class="card-body">
+              <table class="table table-striped table-hover table-borderless table-outline-primary align-center">
+                <thead>
+                <tr>
+                  <th scope="col">Nº de Processo</th>
+                  <th scope="col">Nome</th>
+                  <th scope="col">Gênero</th>
+                  <th scope="col">E-mail</th>
+                  <th scope="col">Curso</th>
+                  <th scope="col">Ano</th>
+                  <th scope="col">Telefone</th>
+                  <th scope="col">Equipa</th>
+                  <th scope="col">Editar</th>
+                  <th scope="col">Apagar</th>
+                </tr>
+                </thead>
+                  <tbody class="table-group-divider">
+                  @if(Model != null && Model.Any())
+                  {
+                    @foreach(var item in Model)
+                       {
+                           <tr class="table-outline-primary">
+                              <td scope="row">@item.NumProcesso</td>
+                              <td>@item.NomeMembro</td>
+                              <td>@(item.Genero == SignPC.Enums.GeneroEnum.M ? 'M' : 'F')</td>
+                              <td>@item.EmailMembro</td>
+                              <td>@item.Curso</td>
+                              <td>@item.Ano</td>
+                              <td>@item.Telefone</td>
+                              <td>@item.RefEquipa</td>
+                           <td>
+                               <a asp-action="Alterar" asp-controller="Membro" asp-route-id="@item.Id" class="btn btn-warning">Alterar</a>
+                           </td>
+                           <td>
+                               <a asp-action="Deletar" asp-controller="Membro" asp-route-id="@item.Id" class="btn btn-danger">Apagar</a>
+                           </td>
+                           </tr>
+                      }
+                  }
+                  else
+                  {
+                    
+                    <tr class="odd"><td valign="top" cosplan="5">Nenhum membro encontrado.</td></tr>
+                  }
+                  </tbody>
+              </table>
+      </div>
+    </div>
+  </section>
+</div>
+</div>

@@ -1,0 +1,63 @@
+
+@{
+    ViewData["Title"] = "Home - Dashboard";
+}
+
+
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <h1 class="fw-bold text-darks text-center my-3">Dashboard</h1>
+    <!-- /.content-header -->
+
+    <!-- Main content -->
+    <section class="content">
+      <div class="container-fluid">
+        <!-- Small boxes (Stat box) -->
+        <div class="row d-flex justify-content-center">
+          <div class="col-xl-3 col-lg-4 col-md-4 col-sm-12">
+            <!-- small box -->
+            <div class="small-box bg-warning">
+              <div class="inner">
+                <h3>@ViewBag.ContMembro</h3>
+
+                <h4>Membros</h4>
+              </div>
+              <div class="icon">
+                <i class="fas fa-user-plus"></i>
+              </div>
+            </div>
+          </div>
+  
+          <!-- ./col -->
+          <div class="col-xl-3 col-lg-4 col-md-4 col-sm-12">
+            <!-- small box -->
+            <div class="small-box bg-info">
+              <div class="inner">
+                <h3>@ViewBag.ContEquipa</h3>
+
+                <h4>Equipas</h4>
+              </div>
+              <div class="icon">
+                <i class="fas fa-users"></i>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-4 col-md-4 col-sm-12">
+            <!-- small box -->
+            <div class="small-box bg-danger">
+              <div class="inner">
+                <h3>@ViewBag.ContEquipamento</h3>
+
+                <h4>Equipamentos</h4>
+              </div>
+              <div class="icon">
+                <i class="fas fa-desktop"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+        </div>
+      </div>
+    </section>
+
+    

@@ -1,0 +1,74 @@
+@{
+    ViewData["Title"] = "Editar Membro";
+}
+
+
+
+@model SignPC.Models.Membro
+
+
+<form asp-controller="Membro" asp-action="Alterar" method="post">
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input type="hidden" asp-for="Id">     
+   <div class="mb-3 col-md">
+        <label for="NumProcesso" class="form-label">Número do Processo</label>
+        <input type="text" asp-for="NumProcesso" class="form-control" placeholder="Número de processo"/>
+        <span asp-validation-for="NumProcesso" class="text-danger"></span>
+    </div>
+    <div class="mb-3 col-md">
+        <label for="NomeMembro" class="form-label">Nome do Membro</label>
+        <input type="text" asp-for="NomeMembro" class="form-control" placeholder="Nome completo"/>
+        <span asp-validation-for="NomeMembro" class="text-danger"></span>
+    </div>
+    <div class="mb-3 col-md">
+        <label asp-for="Genero" class="control-label">Gênero</label>
+        <select asp-for="Genero" class="form-control">
+            <option value="1">Masculino</option>
+            <option value="2">Feminino</option>
+        </select>
+        <span asp-validation-for="Genero" class="text-danger"></span>
+    </div>
+    <div class="mb-3 col-md">
+        <label for="EmailMembro" class="form-label">E-mail</label>
+        <input type="email" asp-for="EmailMembro" class="form-control" placeholder="Ex: abc@xmail.com"/>
+        <span asp-validation-for="EmailMembro" class="text-danger"></span>
+    </div>
+    <div class="mb-3 col-md">
+        <label asp-for="Curso" class="control-label"></label>
+        <select asp-for="Curso" class="form-control">
+            @foreach (var item in Enum.GetValues(typeof(SignPC.Enums.CursoEnum)))
+            {
+                var selected = item.Equals(Model.Curso);
+                <option value="@item">@item</option>
+            }
+        </select>
+        <span asp-validation-for="Curso" class="text-danger"></span>
+    </div>
+    <div class="mb-3 col-md">
+        <label asp-for="Ano" class="control-label"></label>
+        <select asp-for="Ano" class="form-control">
+            @foreach (var item in Enum.GetValues(typeof(SignPC.Enums.AnoEnum)))
+            {
+                var selected = item.Equals(Model.Ano);
+                <option value="@item">@item</option>
+            }
+        </select>
+        <span asp-validation-for="Ano" class="text-danger"></span>
+    </div>
+    <div class="mb-3 col-md">
+        <label for="Telefone" class="form-label">Telefone</label>
+        <input type="text" asp-for="Telefone" class="form-control" placeholder="+244 9xx xxx xxx"/>
+        <span asp-validation-for="Telefone" class="text-danger"></span>
+    </div>
+    <div class="mb-3 col-md">
+        <label for="RefEquipa" class="form-label">Equipa</label>
+        <input type="text" asp-for="RefEquipa" class="form-control" placeholder="Id ou nome da equipa..."/>
+        <span asp-validation-for="RefEquipa" class="text-danger"></span>
+    </div>
+    <div class="card-footer">
+        <center>
+            <button type="submit" class="btn btn-success">Atualizar</button>
+            <a asp-action="Index" asp-controller="Membro" class="btn btn-secondary">Voltar</a>
+        </center>
+    </div>
+</form>

@@ -1,0 +1,49 @@
+@{
+    ViewData["Title"] = "Apagar Membro";
+}
+
+
+@model SignPC.Models.Membro
+
+<form asp-controller="Membro" asp-action="Deletar" method="post"> 
+    <input type="hidden" asp-for="Id"> 
+    <div class="mb-3 col-md">
+       <input type="text" asp-for="NumProcesso" disabled class="form-control"/>
+    </div>
+    <div class="mb-3 col-md">
+       <input type="text" asp-for="NomeMembro" disabled class="form-control"/>
+    </div>
+    <div class="mb-3 col-md">
+        <select asp-for="Genero" disabled class="form-control">
+            <option value="">Selecione</option>
+            <option value="1">Masculino</option>
+            <option value="2">Feminino</option>
+        </select>
+        <span asp-validation-for="Genero" class="text-danger"></span>
+    </div>
+    <div class="mb-3 col-md">
+       <input type="email" asp-for="EmailMembro" disabled class="form-control"/>
+    </div>
+    <div class="mb-3 col-md">
+        <select asp-for="Curso" disabled class="form-control">
+            <option value="">@Model.Curso</option>
+        </select>
+    </div>
+    <div class="mb-3 col-md">
+        <select asp-for="Ano" disabled class="form-control">
+            <option value="">@Model.Ano</option>
+        </select>
+    </div>
+    <div class="mb-3 col-md">
+       <input type="text" asp-for="Telefone" disabled class="form-control"/>
+    </div>
+    <div class="mb-3 col-md">
+        <input type="text" asp-for="RefEquipa" disabled class="form-control"/>
+    </div>
+    <div class="card-footer">
+        <center>
+            <button type="submit" class="btn btn-danger">Apagar</button>
+            <a asp-action="Index" asp-controller="Membro" class="btn btn-secondary">Cancelar</a>
+        </center>
+    </div>
+</form>

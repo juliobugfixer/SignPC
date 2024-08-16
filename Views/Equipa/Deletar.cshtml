@@ -1,0 +1,20 @@
+@{
+    ViewData["Title"] = "Apagar Equipa";
+}
+
+
+@model SignPC.Models.Equipa
+
+
+<form asp-controller="Equipa" asp-action="Deletar" method="post">
+    <input type="hidden" asp-for="Id">  
+    <div class="mb-3 col-md">
+        <input type="text" disabled asp-for="NomeEquipa" class="form-control"/>
+    </div>
+    <div class="card-footer">
+        <center>
+            <button type="submit" class="btn btn-danger">Apagar</button>
+            <a asp-action="Index" asp-controller="Equipa" class="btn btn-secondary">Voltar</a>
+        </center>
+    </div>
+</form>

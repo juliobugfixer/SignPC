@@ -1,0 +1,2925 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SignPC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SignPC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\config\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\config\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\config\\postcss.config.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\config\\postcss.config.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\config\\rollup.config.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\config\\rollup.config.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\js\\AdminLTE.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\js\\AdminLTE.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\js\\CardRefresh.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\js\\CardRefresh.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\js\\CardWidget.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\js\\CardWidget.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\js\\ControlSidebar.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\js\\ControlSidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\js\\DirectChat.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\js\\DirectChat.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\js\\Dropdown.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\js\\Dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\js\\ExpandableTable.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\js\\ExpandableTable.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\js\\Fullscreen.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\js\\Fullscreen.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\js\\IFrame.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\js\\IFrame.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\js\\Layout.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\js\\Layout.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\js\\NavbarSearch.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\js\\NavbarSearch.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\js\\PushMenu.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\js\\PushMenu.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\js\\SidebarSearch.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\js\\SidebarSearch.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\js\\Toasts.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\js\\Toasts.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\js\\TodoList.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\js\\TodoList.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\build\\js\\Treeview.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\build\\js\\Treeview.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\adminlte.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\img\\Admin.png",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\img\\Admin.png"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\img\\Admin1.jpg",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\img\\Admin1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\img\\acm-icpc.png",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\img\\acm-icpc.png"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\img\\uniluandalogo.png",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\img\\uniluandalogo.png"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\esm\\popper-utils.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\esm\\popper-utils.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\esm\\popper-utils.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\esm\\popper-utils.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\esm\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\esm\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\esm\\popper-utils.min.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\esm\\popper-utils.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\esm\\popper.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\esm\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\esm\\popper.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\esm\\popper.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\esm\\popper.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\esm\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\esm\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\esm\\popper.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\popper-utils.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\popper-utils.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\popper-utils.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\popper-utils.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\popper-utils.min.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\popper-utils.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\popper.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\popper.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\popper.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\popper.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper-utils.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper-utils.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper-utils.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper-utils.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper-utils.min.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper-utils.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper.js.flow",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\docs\\assets\\plugins\\popper\\umd\\popper.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\bootstrap-slider\\bootstrap-slider.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\bootstrap-slider\\bootstrap-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\bootstrap-slider\\bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\bootstrap-slider\\bootstrap-slider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\bootstrap-slider\\css\\bootstrap-slider.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\bootstrap-slider\\css\\bootstrap-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\bootstrap-slider\\css\\bootstrap-slider.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\bootstrap-slider\\css\\bootstrap-slider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\chart.js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\chart.js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\chart.js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\chart.js\\Chart.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\chart.js\\Chart.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\chart.js\\Chart.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\chart.js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\chart.js\\Chart.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\chart.js\\Chart.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\icheck-bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\icheck-bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\icheck-bootstrap\\icheck-bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\icheck-bootstrap\\icheck-bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\icheck-bootstrap\\icheck-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\icheck-bootstrap\\icheck-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery-knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery-knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery-ui\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery-ui\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery-ui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery-ui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery-ui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery-ui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery-ui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery-ui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery-ui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery-ui\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery-ui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery-ui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery-ui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery-ui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery-ui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery-ui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery-ui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery-ui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery-ui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery-ui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery-ui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\jquery.vmap.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\jqvmap.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\jqvmap.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\jqvmap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.africa.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.africa.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.asia.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.asia.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.australia.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.australia.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.algeria.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.algeria.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.argentina.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.argentina.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.brazil.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.brazil.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.canada.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.canada.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.croatia.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.croatia.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.france.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.france.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.germany.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.germany.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.greece.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.greece.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.indonesia.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.indonesia.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.iran.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.iran.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.iraq.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.iraq.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.new_regions_france.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.new_regions_france.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.russia.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.serbia.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.serbia.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.tunisia.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.tunisia.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.turkey.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.turkey.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.ukraine.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.ukraine.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.usa.districts.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.usa.districts.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\jqvmap\\maps\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\af.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ar-dz.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ar-dz.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ar-kw.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ar-kw.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ar-ly.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ar-ly.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ar-ma.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ar-ma.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ar-sa.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ar-sa.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ar-tn.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ar-tn.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ar.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\az.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\be.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\be.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\bg.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\bm.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\bm.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\bn-bd.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\bn-bd.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\bn.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\bn.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\bo.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\bo.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\br.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\br.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\bs.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ca.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\cs.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\cv.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\cv.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\cy.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\da.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\de-at.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\de-at.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\de-ch.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\de.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\dv.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\dv.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\el.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\en-SG.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\en-SG.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\en-au.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\en-ca.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\en-gb.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\en-ie.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\en-ie.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\en-il.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\en-il.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\en-in.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\en-in.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\en-nz.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\en-nz.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\eo.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\es-do.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\es-do.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\es-mx.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\es-us.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\es-us.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\es.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\et.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\eu.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\fa.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\fi.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\fil.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\fil.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\fo.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\fo.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\fr-ca.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\fr-ch.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\fr-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\fr.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\fy.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\fy.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ga.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ga.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\gd.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\gd.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\gl.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\gom-deva.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\gom-deva.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\gom-latn.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\gom-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\gu.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\he.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\hi.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\hr.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\hu.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\hy-am.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\hy-am.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\id.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\is.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\is.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\it-ch.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\it-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\it.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ja.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\jv.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\jv.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ka.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ka.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\kk.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\kk.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\km.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\kn.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\kn.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ko.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ku.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ky.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ky.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\lb.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\lb.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\lo.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\lo.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\lt.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\lv.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\me.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\me.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\mi.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\mi.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\mk.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ml.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ml.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\mn.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\mn.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\mr.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\mr.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ms-my.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ms-my.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ms.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\mt.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\mt.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\my.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\my.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\nb.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ne.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ne.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\nl-be.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\nl-be.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\nl.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\nn.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\nn.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\oc-lnc.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\oc-lnc.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\pa-in.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\pa-in.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\pl.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\pt-br.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\pt.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ro.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ru.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\sd.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\sd.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\se.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\se.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\si.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\sk.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\sl.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\sq.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\sr-cyrl.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\sr.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ss.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ss.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\sv.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\sw.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\sw.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ta.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ta.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\te.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\te.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\tet.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\tet.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\tg.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\tg.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\th.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\tk.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\tk.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\tl-ph.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\tl-ph.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\tlh.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\tlh.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\tr.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\tzl.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\tzl.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\tzm-latn.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\tzm-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\tzm.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\tzm.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ug-cn.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ug-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\uk.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\ur.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\ur.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\uz-latn.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\uz-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\uz.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\uz.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\vi.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\x-pseudo.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\x-pseudo.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\yo.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\yo.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\zh-cn.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\zh-hk.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\zh-hk.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\zh-mo.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\zh-mo.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locale\\zh-tw.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locale\\zh-tw.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locales.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locales.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locales.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locales.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\locales.min.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\locales.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\moment-with-locales.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\moment-with-locales.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\moment-with-locales.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\moment-with-locales.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\moment-with-locales.min.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\moment-with-locales.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\moment\\moment.min.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\moment\\moment.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\font\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\font\\summernote.hash",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\font\\summernote.hash"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\font\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\font\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\font\\summernote.woff2",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\font\\summernote.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ar-AR.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ar-AR.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ar-AR.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ar-AR.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ar-AR.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ar-AR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ar-AR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ar-AR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-az-AZ.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-az-AZ.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-az-AZ.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-az-AZ.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-az-AZ.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-az-AZ.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-az-AZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-az-AZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-bg-BG.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-bg-BG.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-bg-BG.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-bg-BG.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-bg-BG.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-bg-BG.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-bg-BG.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-bg-BG.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-bn-BD.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-bn-BD.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-bn-BD.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-bn-BD.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-bn-BD.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-bn-BD.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ca-ES.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ca-ES.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ca-ES.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ca-ES.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ca-ES.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ca-ES.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ca-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ca-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-cs-CZ.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-cs-CZ.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-cs-CZ.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-cs-CZ.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-cs-CZ.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-cs-CZ.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-cs-CZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-cs-CZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-da-DK.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-da-DK.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-da-DK.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-da-DK.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-da-DK.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-da-DK.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-da-DK.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-da-DK.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-de-CH.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-de-CH.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-de-CH.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-de-CH.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-de-CH.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-de-CH.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-de-DE.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-de-DE.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-de-DE.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-de-DE.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-de-DE.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-de-DE.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-de-DE.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-de-DE.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-el-GR.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-el-GR.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-el-GR.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-el-GR.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-el-GR.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-el-GR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-el-GR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-el-GR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-en-US.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-en-US.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-en-US.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-en-US.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-en-US.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-en-US.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-es-ES.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-es-ES.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-es-ES.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-es-ES.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-es-ES.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-es-ES.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-es-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-es-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-es-EU.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-es-EU.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-es-EU.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-es-EU.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-es-EU.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-es-EU.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-es-EU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-es-EU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-fa-IR.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-fa-IR.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-fa-IR.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-fa-IR.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-fa-IR.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-fa-IR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-fa-IR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-fa-IR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-fi-FI.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-fi-FI.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-fi-FI.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-fi-FI.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-fi-FI.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-fi-FI.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-fi-FI.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-fi-FI.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-fr-FR.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-fr-FR.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-fr-FR.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-fr-FR.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-fr-FR.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-fr-FR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-fr-FR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-fr-FR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-gl-ES.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-gl-ES.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-gl-ES.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-gl-ES.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-gl-ES.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-gl-ES.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-gl-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-gl-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-he-IL.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-he-IL.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-he-IL.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-he-IL.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-he-IL.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-he-IL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-he-IL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-he-IL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-hr-HR.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-hr-HR.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-hr-HR.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-hr-HR.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-hr-HR.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-hr-HR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-hr-HR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-hr-HR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-hu-HU.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-hu-HU.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-hu-HU.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-hu-HU.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-hu-HU.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-hu-HU.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-hu-HU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-hu-HU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-id-ID.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-id-ID.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-id-ID.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-id-ID.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-id-ID.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-id-ID.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-id-ID.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-id-ID.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-it-IT.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-it-IT.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-it-IT.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-it-IT.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-it-IT.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-it-IT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-it-IT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-it-IT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ja-JP.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ja-JP.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ja-JP.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ja-JP.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ja-JP.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ja-JP.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ja-JP.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ja-JP.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ko-KR.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ko-KR.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ko-KR.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ko-KR.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ko-KR.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ko-KR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ko-KR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ko-KR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-lt-LT.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-lt-LT.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-lt-LT.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-lt-LT.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-lt-LT.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-lt-LT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-lt-LT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-lt-LT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-lt-LV.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-lt-LV.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-lt-LV.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-lt-LV.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-lt-LV.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-lt-LV.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-lt-LV.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-lt-LV.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-mn-MN.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-mn-MN.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-mn-MN.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-mn-MN.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-mn-MN.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-mn-MN.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-mn-MN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-mn-MN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-nb-NO.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-nb-NO.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-nb-NO.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-nb-NO.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-nb-NO.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-nb-NO.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-nb-NO.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-nb-NO.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-nl-NL.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-nl-NL.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-nl-NL.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-nl-NL.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-nl-NL.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-nl-NL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-nl-NL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-nl-NL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-pl-PL.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-pl-PL.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-pl-PL.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-pl-PL.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-pl-PL.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-pl-PL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-pl-PL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-pl-PL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-pt-BR.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-pt-BR.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-pt-BR.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-pt-BR.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-pt-BR.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-pt-BR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-pt-BR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-pt-BR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-pt-PT.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-pt-PT.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-pt-PT.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-pt-PT.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-pt-PT.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-pt-PT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-pt-PT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-pt-PT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ro-RO.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ro-RO.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ro-RO.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ro-RO.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ro-RO.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ro-RO.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ro-RO.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ro-RO.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ru-RU.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ru-RU.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ru-RU.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ru-RU.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ru-RU.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ru-RU.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ru-RU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ru-RU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sk-SK.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sk-SK.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sk-SK.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sk-SK.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sk-SK.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sk-SK.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sk-SK.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sk-SK.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sl-SI.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sl-SI.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sl-SI.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sl-SI.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sl-SI.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sl-SI.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sl-SI.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sl-SI.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sr-RS.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sr-RS.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sr-RS.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sr-RS.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sr-RS.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sr-RS.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sr-RS.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sr-RS.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sv-SE.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sv-SE.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sv-SE.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sv-SE.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sv-SE.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sv-SE.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-sv-SE.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-sv-SE.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ta-IN.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ta-IN.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ta-IN.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ta-IN.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ta-IN.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ta-IN.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-ta-IN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-ta-IN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-th-TH.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-th-TH.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-th-TH.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-th-TH.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-th-TH.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-th-TH.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-th-TH.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-th-TH.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-tr-TR.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-tr-TR.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-tr-TR.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-tr-TR.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-tr-TR.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-tr-TR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-tr-TR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-tr-TR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-uk-UA.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-uk-UA.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-uk-UA.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-uk-UA.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-uk-UA.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-uk-UA.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-uk-UA.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-uk-UA.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-uz-UZ.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-uz-UZ.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-uz-UZ.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-uz-UZ.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-uz-UZ.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-uz-UZ.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-uz-UZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-uz-UZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-vi-VN.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-vi-VN.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-vi-VN.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-vi-VN.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-vi-VN.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-vi-VN.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-vi-VN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-vi-VN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-zh-CN.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-zh-CN.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-zh-CN.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-zh-CN.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-zh-CN.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-zh-CN.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-zh-CN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-zh-CN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-zh-TW.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-zh-TW.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-zh-TW.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-zh-TW.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-zh-TW.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-zh-TW.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\lang\\summernote-zh-TW.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\lang\\summernote-zh-TW.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\plugin\\databasic\\summernote-ext-databasic.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\plugin\\databasic\\summernote-ext-databasic.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\plugin\\databasic\\summernote-ext-databasic.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\plugin\\databasic\\summernote-ext-databasic.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\plugin\\hello\\summernote-ext-hello.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\plugin\\hello\\summernote-ext-hello.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\plugin\\specialchars\\summernote-ext-specialchars.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\plugin\\specialchars\\summernote-ext-specialchars.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-bs4.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-bs4.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-bs4.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-bs4.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-bs4.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-bs4.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-bs4.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-bs4.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-bs4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-bs4.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-bs4.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-bs4.min.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-bs4.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-bs5.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-bs5.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-bs5.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-bs5.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-bs5.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-bs5.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-bs5.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-bs5.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-bs5.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-bs5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-bs5.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-bs5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-lite.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-lite.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-lite.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-lite.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-lite.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-lite.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-lite.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-lite.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-lite.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-lite.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-lite.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-lite.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-lite.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-lite.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote-lite.min.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote-lite.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote.css.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\summernote\\summernote.min.js.map",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\summernote\\summernote.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\AdminLTE\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\AdminLTE\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\js\\admin.js",
+      "PackagePath": "staticwebassets\\js\\admin.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\js\\color-modes.js",
+      "PackagePath": "staticwebassets\\js\\color-modes.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dev Jr\\Desktop\\SignPCFinal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SignPC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SignPC.props",
+      "PackagePath": "build\\SignPC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SignPC.props",
+      "PackagePath": "buildMultiTargeting\\SignPC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SignPC.props",
+      "PackagePath": "buildTransitive\\SignPC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

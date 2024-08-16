@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "Editar Equipa";
+}
+
+@model SignPC.Models.Equipa
+
+
+<form asp-controller="Equipa" asp-action="Alterar" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>     
+    <input type="hidden" asp-for="Id">  
+    <div class="mb-3 col-md">
+        <label for="NomeEquipa" class="form-label">Nome da Equipa</label>
+        <input type="text" asp-for="NomeEquipa" class="form-control"/>
+        <span asp-validation-for="NomeEquipa" class="text-danger"></span>
+    </div>
+    <div class="card-footer">
+        <center>
+            <button type="submit" class="btn btn-success">Atualizar</button>
+            <a asp-action="Index" asp-controller="Equipa" class="btn btn-secondary">Voltar</a>
+        </center>
+    </div>
+</form>

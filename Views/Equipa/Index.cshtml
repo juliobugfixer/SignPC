@@ -1,0 +1,80 @@
+@{
+    ViewData["Title"] = "Lista de Equipas";
+}
+
+
+
+@model List<SignPC.Models.Equipa>
+
+<h1 class="fw-bold text-darks text-center">Equipas</h1>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-12">     
+        <div class="col-md">
+            <a asp-action="Adicionar" asp-controller="Equipa" class="btn btn-primary my-3">Adicionar</a>
+        </div>
+            <div class="container-fluid">
+              <div class="row">
+                <div class="col-12">
+                  <div class="card">
+                    <div class="card-header">
+                        <div class="d-flex">
+                          <form class="d-flex" asp-controller="Equipa" asp-action="Index">
+                            <input name="pesquisaString" class="form-control me-2" type="search" placeholder="Id/nome" aria-label="Search">
+                            <button class="btn btn-outline-secondary btn-md my-0 mx-1" type="submit">Pesquisar</button>
+                          </form>
+                        </div>
+                    </div>
+                      @if (TempData["Deletar"] != null)
+                      {
+                        <p class="form-group d-flex text-success justify-content-center fw-bold fs-5">@TempData["Deletar"]</p>
+                      }
+                      @if (TempData["Alterar"] != null)
+                      {
+                        <p class="form-group d-flex text-success justify-content-center fw-bold fs-5">@TempData["Alterar"]</p>
+                      }
+                      @if (TempData["Adicionar"] != null)
+                      {
+                        <p class="form-group d-flex text-success justify-content-center fw-bold fs-5">@TempData["Adicionar"]</p>
+                      }
+                    <div class="card-body">
+                      <table class="table table-striped table-hover table-borderless table-outline-primary align-center">
+                        <thead>
+                            <tr>
+                                <th scope="col">Id Equipa</th>
+                                <th scope="col">Nome da Equipa</th>
+                                <th scope="col">Editar</th>
+                                <th scope="col">Apagar</th>
+                            </tr>
+                        </thead>
+                              <tbody class="table-group-divider">
+                                @if(Model != null && Model.Any())
+                                {
+                                  @foreach(var item in Model)
+                                  {
+                                    <tr class="table-outline-primary">
+                                      <td>@item.Id</td>
+                                      <td>@item.NomeEquipa</td>
+                                      <td>
+                                       <a asp-action="Alterar" asp-controller="Equipa" asp-route-id="@item.Id" class="btn btn-warning">Alterar</a>
+                                      </td>
+                                      <td>
+                                       <a asp-action="Deletar" asp-controller="Equipa" asp-route-id="@item.Id" class="btn btn-danger">Apagar</a>
+                                      </td>
+                                    </tr>
+                                  }
+                                }
+                                else
+                                {
+                                  <tr class="odd"><td valign="top" cosplan="5">Nenhuma equipa encontrada.</td></tr>
+                                }
+                              </tbody>
+                      </table>
+                    </div>
+                </div>
+              </div>
+            </div>
+      </div>
+  </div>
+</div>
+

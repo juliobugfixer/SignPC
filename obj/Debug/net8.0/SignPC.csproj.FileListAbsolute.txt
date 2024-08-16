@@ -1,0 +1,550 @@
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\appsettings.json
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\SignPC.staticwebassets.runtime.json
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\SignPC.exe
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\SignPC.deps.json
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\SignPC.runtimeconfig.json
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\SignPC.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\SignPC.pdb
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\SignPC.csproj.AssemblyReference.cache
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\SignPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\SignPC.AssemblyInfoInputs.cache
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\SignPC.AssemblyInfo.cs
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\SignPC.csproj.CoreCompileInputs.cache
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\SignPC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\SignPC.RazorAssemblyInfo.cache
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\SignPC.RazorAssemblyInfo.cs
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\staticwebassets\msbuild.SignPC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\staticwebassets\msbuild.build.SignPC.props
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SignPC.props
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SignPC.props
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\scopedcss\bundle\SignPC.styles.css
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\scopedcss\projectbundle\SignPC.bundle.scp.css
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\SignPC.csproj.Up2Date
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\SignPC.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\refint\SignPC.dll
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\SignPC.pdb
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\SignPC.genruntimeconfig.cache
+C:\Users\Dev Jr\Desktop\JulioProject\SignPC\obj\Debug\net8.0\ref\SignPC.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\SignPC.csproj.AssemblyReference.cache
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\SignPC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\SignPC.AssemblyInfoInputs.cache
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\SignPC.AssemblyInfo.cs
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\SignPC.csproj.CoreCompileInputs.cache
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\SignPC.MvcApplicationPartsAssemblyInfo.cache
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\SignPC.RazorAssemblyInfo.cache
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\SignPC.RazorAssemblyInfo.cs
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\SignPC.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\refint\SignPC.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\SignPC.pdb
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\appsettings.Development.json
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\appsettings.json
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\SignPC.staticwebassets.runtime.json
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\SignPC.exe
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\SignPC.deps.json
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\SignPC.runtimeconfig.json
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\SignPC.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\SignPC.pdb
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Azure.Core.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Azure.Identity.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Humanizer.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\System.CodeDom.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\staticwebassets.build.json
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\staticwebassets.development.json
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\staticwebassets\msbuild.SignPC.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\staticwebassets\msbuild.build.SignPC.props
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SignPC.props
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SignPC.props
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\scopedcss\bundle\SignPC.styles.css
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\scopedcss\projectbundle\SignPC.bundle.scp.css
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\SignPC.csproj.Up2Date
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\SignPC.genruntimeconfig.cache
+E:\Study\IIIº\Bsc\Projeto\SignPC\obj\Debug\net8.0\ref\SignPC.dll
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\SignPC.csproj.AssemblyReference.cache
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\SignPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\SignPC.AssemblyInfoInputs.cache
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\SignPC.AssemblyInfo.cs
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\SignPC.csproj.CoreCompileInputs.cache
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\SignPC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\SignPC.RazorAssemblyInfo.cache
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\SignPC.RazorAssemblyInfo.cs
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\appsettings.json
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\SignPC.staticwebassets.runtime.json
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\SignPC.exe
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\SignPC.deps.json
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\SignPC.runtimeconfig.json
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\SignPC.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\SignPC.pdb
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dev Jr\Desktop\SignPC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\staticwebassets\msbuild.SignPC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\staticwebassets\msbuild.build.SignPC.props
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SignPC.props
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SignPC.props
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\scopedcss\bundle\SignPC.styles.css
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\scopedcss\projectbundle\SignPC.bundle.scp.css
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\SignPC.csproj.Up2Date
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\SignPC.dll
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\refint\SignPC.dll
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\SignPC.pdb
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\SignPC.genruntimeconfig.cache
+C:\Users\Dev Jr\Desktop\SignPC\obj\Debug\net8.0\ref\SignPC.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\appsettings.json
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\SignPC.staticwebassets.runtime.json
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\SignPC.exe
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\SignPC.deps.json
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\SignPC.runtimeconfig.json
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\SignPC.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\SignPC.pdb
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\SignPC.csproj.AssemblyReference.cache
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\SignPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\SignPC.AssemblyInfoInputs.cache
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\SignPC.AssemblyInfo.cs
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\SignPC.csproj.CoreCompileInputs.cache
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\SignPC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\SignPC.RazorAssemblyInfo.cache
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\SignPC.RazorAssemblyInfo.cs
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\staticwebassets\msbuild.SignPC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\staticwebassets\msbuild.build.SignPC.props
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SignPC.props
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SignPC.props
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\scopedcss\bundle\SignPC.styles.css
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\scopedcss\projectbundle\SignPC.bundle.scp.css
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\SignPC.csproj.Up2Date
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\SignPC.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\refint\SignPC.dll
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\SignPC.pdb
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\SignPC.genruntimeconfig.cache
+C:\Users\Dev Jr\Desktop\SignPCFinal\obj\Debug\net8.0\ref\SignPC.dll

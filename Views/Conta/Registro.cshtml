@@ -1,0 +1,61 @@
+@model SignPC.Models.AdminRegistro
+
+@{
+    Layout = null;
+    ViewData["Title"] = "Registro";
+}
+
+<link rel="stylesheet" href="~/css/bootstrap.min.css">
+<link rel="stylesheet" href="~/css/login.css">
+
+<nav class="main-header navbar navbar-expand navbar-white navbar-light">
+    <a class="brand-link" asp-action="Login">
+      <img src="~/AdminLTE/dist/img/uniluandalogo.png" alt="Logo UniLuanda" width="50" height="50" class="brand-image img-circle elevation-3 me-3" style="opacity: .8">
+    </a>
+</div>
+  </nav>
+<div class="container-fluid vertical-center">
+    <div class="row d-flex justify-content-center w-100 my-auto">
+        <div class="col-md-6 col-lg-4">
+            <form asp-controller="Conta" asp-action="Registro" method="post" class="bg-light p-4 rounded">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <h3 class="mb-4 text-center">Novo Usuário</h3>
+                <div class="mb-3">
+                    <label asp-for="Nome" class="form-label">Nome do Usuário</label>
+                    <input asp-for="Nome" class="form-control"  placeholder="Nome Completo"/>
+                    <span asp-validation-for="Nome" class="text-danger"></span>
+                </div>
+                
+                <div class="mb-3">
+                    <label asp-for="Email" class="form-label">E-mail</label>
+                    <input asp-for="Email" class="form-control" placeholder="Ex: abc@xmail.com"/>
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Senha" class="form-label">Senha</label>
+                    <input asp-for="Senha" type="password" class="form-control" placeholder="Digite a senha" />
+                    <span asp-validation-for="Senha" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Confirmar" class="form-label">Confirmar</label>
+                    <input asp-for="Confirmar" type="password" class="form-control" placeholder="Confirme a senha" />
+                    <span asp-validation-for="Confirmar" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-success">Submeter</button>
+                        <a asp-action="Login" class="btn btn-secondary">Voltar</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="row pt-5">
+<footer class="main-footer">
+    <p class="text-center  text-muted"><strong>Powered by ACM-INSTIC, Copyright&copy; 2024.</strong></p>
+</footer> 
+</div>

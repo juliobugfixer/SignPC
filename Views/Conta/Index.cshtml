@@ -1,0 +1,81 @@
+@{
+    ViewData["Title"] = "Lista de Administradores";
+}
+
+@model List<SignPC.Entities.UsuarioConta>
+
+
+<h1 class="fw-bold text-darks text-center">Administradores</h1>
+<div class="container-fluid">
+    <div class="row">
+      <div class="col-12">   
+      <section class="content">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-12">
+              <div class="card">
+                      <div class="card-header">
+                        <div class="d-flex">
+                          <form class="d-flex" asp-controller="Conta" asp-action="Index">
+                            <input name="pesquisaString" class="form-control me-2" type="search" placeholder="Id, email,nome..." aria-label="Search">
+                            <button class="btn btn-outline-secondary btn-md my-0 mx-1" type="submit">Pesquisar</button>
+                          </form>
+                        </div>
+                      </div>
+                      @if (TempData["Deletar"] != null)
+                      {
+                        <p class="form-group d-flex text-success justify-content-center fw-bold fs-5">@TempData["Deletar"]</p>
+                      }
+                      @if (TempData["Alterar"] != null)
+                      {
+                        <p class="form-group d-flex text-success justify-content-center fw-bold fs-5">@TempData["Alterar"]</p>
+                      }
+                <div class="card-body">
+                  <table id="example2" class="table table-striped table-hover table-borderless table-outline-primary align-center">
+                    <thead>
+                        <tr>
+                            <th scope="col">ID</th>
+                            <th scope="col">Nome</th>
+                            <th scope="col">E-mail</th>
+                            <th scope="col">Senha</th>
+                            <th scope="col">Editar</th>
+                            <th scope="col">Apagar</th>
+                        </tr>
+                    </thead>
+                    <tbody class="table-group-divider">
+                  @if(Model != null && Model.Any())
+                  {
+                    @foreach(var item in Model)
+                       {
+                           <tr class="table-outline-primary">
+                              <td scope="row">@item.Id</td>
+                              <td>@item.Nome</td>
+                              <td>@item.Email</td>
+                              <td>@item.Senha</td>
+                           <td>
+                               <a asp-action="Alterar" asp-controller="Conta" asp-route-id="@item.Id" class="btn btn-warning">Alterar</a>
+                           </td>
+                           <td>
+                               <a asp-action="Deletar" asp-controller="Conta" asp-route-id="@item.Id" class="btn btn-danger">Apagar</a>
+                           </td>
+                           </tr>
+                      }
+                  }
+                  else
+                  {
+                    <tr class="odd"><td valign="top" cosplan="5">Nenhum administrador encontrado.</td></tr>
+                  }
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+        </div>
+    </div>
+</div>
+</div>
+
