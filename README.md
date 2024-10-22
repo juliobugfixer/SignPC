@@ -1,13 +1,14 @@
-# SIGN PC - Sistema de Gestão de Informações e Recursos do Núcleo de Programação Competitiva💻
+# SIGN PC 💻
 
-Este sistema foi desenvolvido para o Núcleo de Programação Competitiva, com o objetivo de gerenciar informações e recursos de forma eficiente e organizada. Ele oferece uma interface amigável para a administração de equipas, equipamentos, e membros.
+- *Este projeto explora as funcionalidades de CRUD e Autenticação e autorização customizada, utilizando a versão .NET 8. A ideia do projeto é gerenciar informações sobre membros, equipas e equipamentos de um núcleo de estudantes.
 
+  
 ## Funcionalidades Principais ✨
 
-- **Gestão de Membros:** Controle completo sobre o cadastro, edição e exclusão de membros do núcleo. 👥
-- **Gerenciamento de Equipas:** Controle completo sobre o cadastro, edição e exclusão de equipas do núcleo.👥
-- **Calendário de Equipamentos:** Controle completo sobre o cadastro, edição e exclusão de equipamentos do núcleo.🖥️⌨️🖱️🖨
-- **Relatórios:** Geração de relatórios sobre informações de membros, equipas e equipamentos.📊
+- **Gestão de Membros:** cadastro, edição e exclusão. 👥
+- **Gestão de Equipas:** Controle completo sobre o cadastro, edição e exclusão.
+- **Gestão de Equipamentos:** Controle completo sobre o cadastro, edição e exclusão.👥
+
 
 ## Tecnologias Utilizadas 💻
 
@@ -22,5 +23,4 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do sistema:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 
-__Este projeto utiliza o template [AdminLTE](https://adminlte.io/), que é distribuído sob a licença MIT.__
-
+Este projeto utiliza o template [AdminLTE](https://adminlte.io/)
